@@ -1,2 +1,2 @@
 # HttpDownload
-QHttp downlaod file
+QHttp download file
